@@ -4,3 +4,6 @@
 ^project.*\.tar\.gz$
 ^project.*\.tgz$
 ^LICENSE\.md$
+^toypackageTS\.Rcheck$
+^toypackageTS.*\.tar\.gz$
+^toypackageTS.*\.tgz$
