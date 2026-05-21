@@ -7,3 +7,4 @@
 ^toypackageTS\.Rcheck$
 ^toypackageTS.*\.tar\.gz$
 ^toypackageTS.*\.tgz$
+^data-raw$
