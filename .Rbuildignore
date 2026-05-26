@@ -9,3 +9,5 @@
 ^toypackageTS.*\.tgz$
 ^data-raw$
 ^README\.Rmd$
+^doc$
+^Meta$

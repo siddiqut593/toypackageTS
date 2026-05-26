@@ -20,7 +20,7 @@ You can install the development version of `toypackageTS` from
 ``` r
 # install.packages("remotes")
 # install.packages("devtools")
-devtools::install_github("siddiqut593/toypackageTS")
+devtools::install_github("https://github.com/siddiqut593/toypackageTS")
 ```
 
 ## Examples
